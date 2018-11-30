@@ -23,7 +23,7 @@ You are free to choose any type of Internet Hosting Service that gives you multi
 
 Register an account on [Vultr](https://www.vultr.com/?ref=7664225).
 
-<img src="images/1.png" alt="vultr" class="inline"/>
+<a href="https://www.vultr.com/?ref=7664225"><img src="images/1.png" alt="vultr" class="inline"/></a>
 
 Let's get prepared for installation
 
